@@ -57,9 +57,9 @@ button:hover{
     
 
   .qte-box {
-    top: 25%;
+  top: 20%;
     left: 5%;
-    max-width: 300px;
+    max-width: 320px;
   transform: translate(0%, 0%);
 
   }
